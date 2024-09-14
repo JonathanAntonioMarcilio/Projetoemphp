@@ -6,3 +6,15 @@
     background-color: white;
     padding: 20px;
 }
+
+body{
+    background-color: $cor-primaria;
+}
+
+.logo{
+    max-width: 100px; 
+}
+
+ul, ol{
+    list-style: none;
+}

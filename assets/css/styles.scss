@@ -3,23 +3,13 @@
 @import "utils";
 @import "typography";
 @import "forms";
-@import "titles";
 @import "menu";
 @import "posicao";
-@import "footer";
 @import "variables";
 
 
-ul, ol{
-    list-style: none;
-}
 
 
-.logo{
-    max-width: 100px; 
-}
 
 
-body{
-    background-color: $cor-primaria;
-}
+
