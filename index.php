@@ -16,7 +16,7 @@
         <p>
           Nós somos uma empressa de tecnologia avançada que está focando toda
           sua energia na criação de cidades subterrâneas chamadas 'vaults'. Para
-          se previnir contra um apocalipse nuclear, compre já o seu vault.
+          se previnir contra um apocalipse nuclear. Compre já o seu vault.
         </p>
       </div>
     </main>
