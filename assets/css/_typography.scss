@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif; /* fonte sem serifa0 */
+}
+h1{
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+.text-center {
+    text-align: center; /* alinha o texto*/
+}
+
+.cor-fonte{
+    color: $cor-secundaria;
+}
