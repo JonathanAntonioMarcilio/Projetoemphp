@@ -32,7 +32,7 @@
             id="form_email"
             placeholder="Email"
             name="email"
-          />
+            />
         </div>
         <div>
           <label for="form_message">Digite a sua mensagem:</label>
@@ -41,9 +41,9 @@
         <button type="submit" id="botao">Enviar</button>
       </form>
     </main>
-      <?php
-        include __DIR__ . "/includes/footer.php";
-      ?>
+    <?php
+      include __DIR__ . "/includes/footer.php";
+    ?>
     <script src="js\scripts.js"></script>
   </body>
 </html>
